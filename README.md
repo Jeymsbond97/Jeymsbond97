@@ -212,10 +212,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeymsbond97&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="jeymsbond97" /></p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF,DDDDDD&height=60&section=footer"/>
-</p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeymsbond97&theme=tokyonight&hide_border=true" alt="jeymsbond97" /></p>
 
@@ -224,4 +220,8 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF,DDDDDD&height=60&section=footer"/>
 </p>
