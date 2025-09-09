@@ -62,7 +62,7 @@ Frontend Technologies
   </a>
 </p>
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 Backend Technologies
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
