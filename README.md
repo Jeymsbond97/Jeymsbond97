@@ -24,8 +24,8 @@
 </p>
 
 <h2 align="center">🛠️ Languages and Tools:</h2>
-<table align = "center">
-<tr>
+<table align = "center" width="100%">
+<tr width="100%" >
 <td valign="top" width="100%">
 Frontend Technologies
 <p align="left">
