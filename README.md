@@ -32,9 +32,9 @@
 
   <br/>
 
-  <h2>Do you want support me?</h2>
+  <p>Do you want support me?</p> <a href="https://buymeacoffee.com/tokhirbek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+   
 
-<a href="https://buymeacoffee.com/tokhirbek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 
 
