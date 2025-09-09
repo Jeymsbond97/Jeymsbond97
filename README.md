@@ -30,11 +30,7 @@
 
 - 📫 How to reach me **aminjonovtoxirbek@gmail.com**
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/toxirbek-aminjonov-064797240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/toxirbek-aminjonov-064797240/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/jeyms_bond97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jeyms_bond97/" height="30" width="40" /></a>
-</p>
+  <br/>
 
 <h2 align="center">🛠️ Languages and Tools:</h2>
 
