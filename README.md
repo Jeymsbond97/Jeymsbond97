@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tokhirbek (Jeyms) - Full Stack Developer</h1>
+<h1 align="center">Hi 👋, I'm Tokhirbek (Jeyms)</h1>
+<hi align="center"> FullStack Developer</hi>
 
 ![Snake animation](https://github.com/Jeymsbond97/Jeymsbond97/blob/output/github-contribution-grid-snake.svg)
 
