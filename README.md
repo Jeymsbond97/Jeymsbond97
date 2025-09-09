@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeymsbond97" alt="jeymsbond97" /></a> </p>
 
-<p align="left"> <a href="www.linkedin.com/in/aminjonov-tokhirbek/" target="blank"><img src="https://img.shields.io/twitter/follow/toxirbekam95956?logo=twitter&style=for-the-badge" alt="Tokhirbek" /></a> </p>
+<p align="left"> <a href="www.linkedin.com/in/aminjonov-tokhirbek/" target="blank"><img src="https://img.shields.io/twitter/follow/Tokhirbek?logo=twitter&style=for-the-badge" alt="Tokhirbek" /></a> </p>
 
 - 🌱 Continuously learning and empowering others through mentorship and collaboration.
 
-- 👨‍💻 One of my projects at (http://carmart.uz
+- 👨‍💻 One of my projects at http://carmart.uz
 
 - 🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
 
@@ -24,7 +24,8 @@
 </p>
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
-Frontend Technologies
+
+<h3>Frontend Technologies</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
