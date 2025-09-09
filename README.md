@@ -26,7 +26,7 @@
 <h2 align="center">🛠️ Languages and Tools:</h2>
 <table align = "center">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 Frontend Technologies
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
