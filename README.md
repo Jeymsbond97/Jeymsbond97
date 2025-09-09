@@ -25,7 +25,7 @@
 
 <h2 align="center">🛠️ Languages and Tools:</h2>
 
-<table align="center" width="1200px">
+<table align="center" width="200px">
 <tr>
 <td valign="top" width="50%">
 
@@ -206,7 +206,7 @@
 </tr>
 </table>
 
-<h2 top="50px" align="center">📊 GitHub Statistics</h2>
+<h2 top="100px" align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
