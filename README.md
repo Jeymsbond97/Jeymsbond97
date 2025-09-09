@@ -12,8 +12,8 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/aminjonov-tokhirbek" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a></code>
-  <code><a href="https://instagram.com/https://www.instagram.com/jeyms_bond97/ title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"> HackerRank</a></code>
-  <code><a href="https://t.me/jeyms_bond97" title="Telegram Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://instagram.com/https://www.instagram.com/jeyms_bond97/ title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"> Instagram</a></code>
+  <code><a href="https://t.me/jeyms_bond97" title="Telegram Profile"><img width="22" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg"> Telegram</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
