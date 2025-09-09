@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header"/>
 </p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
