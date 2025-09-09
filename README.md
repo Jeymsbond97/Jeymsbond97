@@ -18,14 +18,13 @@
 </h5>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeymsbond97&label=Profile%20views&color=0e75b6&style=flat" alt="jeymsbond97" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="I'm Tokhirbek" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeymsbond97" alt="jeymsbond97" /></a> </p>
 
 <p align="left"> <a href="www.linkedin.com/in/aminjonov-tokhirbek/" target="blank"><img src="https://img.shields.io/twitter/follow/Tokhirbek?logo=twitter&style=for-the-badge" alt="Tokhirbek" /></a> </p>
 
 ### Glad to see you here! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
 I am a Full Stack Developer currently leading the New Tech with a mission to revolutionize how the world hires with AI. 🚀
 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, Nestjs, etc. I've led diverse tech teams covering Frontend, Backend and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
