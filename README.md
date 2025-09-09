@@ -23,9 +23,9 @@
 <a href="https://instagram.com/https://www.instagram.com/jeyms_bond97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jeyms_bond97/" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">🛠️ Languages and Tools:</h2>
+<h2 align="center">🛠️ Languages and Tools:</h2>
 
-<table>
+<table align="center" width="800px">
 <tr>
 <td valign="top" width="50%">
 
@@ -206,7 +206,7 @@
 </tr>
 </table>
 
-<h2>📊 GitHub Statistics</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
