@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeymsbond97" alt="jeymsbond97" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/toxirbekam95956" target="blank"><img src="https://img.shields.io/twitter/follow/toxirbekam95956?logo=twitter&style=for-the-badge" alt="toxirbekam95956" /></a> </p>
+<p align="left"> <a href="www.linkedin.com/in/aminjonov-tokhirbek/" target="blank"><img src="https://img.shields.io/twitter/follow/toxirbekam95956?logo=twitter&style=for-the-badge" alt="Tokhirbek" /></a> </p>
 
 - 🌱 Continuously learning and empowering others through mentorship and collaboration.
 
