@@ -32,13 +32,11 @@
 
   <br/>
 
-  https://buymeacoffee.com/tokhirbek
-
   <h2>Do you want support me?</h2>
 
 <a href="https://buymeacoffee.com/tokhirbek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 
 <h2 align="center">🛠️ Languages and Tools:</h2>
 
