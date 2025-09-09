@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header"/>
 </p>
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Tokhirbek(111|Jeyms)|https://raymond.li)" title="👋 Hi there! I'm (Tokhirbek( Aminjonov|Jeyms)|FulStack Developer)"/>](https://carmart.uz/)
