@@ -217,3 +217,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeymsbond97&theme=tokyonight&hide_border=true" alt="jeymsbond97" /></p>
 
 </div>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
