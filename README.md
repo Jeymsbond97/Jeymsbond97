@@ -14,8 +14,6 @@
 
 - 🌱 Continuously learning and empowering others through mentorship and collaboration.
 
-- 👨‍💻 One of my projects at http://carmart.uz
-
 - 🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
 
 - 📫 How to reach me **aminjonovtoxirbek@gmail.com**
@@ -220,7 +218,13 @@
 
 </div>
 
-
+### 🛠️ My Projects
+<a href="http://carmart.uz/" target="_blank"> <img alt="Carmart" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
+<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
+<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
