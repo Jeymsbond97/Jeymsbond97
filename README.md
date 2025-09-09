@@ -227,7 +227,7 @@
 </div>
 
 ### 🛠️ My Projects
-<a href="http://carmart.uz/" target="_blank"> <img alt="Carmart" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="http://carmart.uz/" target="_blank"> <img alt="Carmart" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy4L5KlQ4C2HPbt7krpvlatkFJjNUWCna4cMUYVvcAEbnrkouWrO0ie2XGXB73uuwxACk&usqp=CAU" height="68" align="left"> </a>
 <a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
 <a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
 <a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
