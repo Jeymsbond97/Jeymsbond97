@@ -10,7 +10,12 @@
   </a>
 </h1>
 
-
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/aminjonov-tokhirbek" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a></code>
+  <code><a href="https://instagram.com/https://www.instagram.com/jeyms_bond97/ title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg"> HackerRank</a></code>
+  <code><a href="https://t.me/jeyms_bond97" title="Telegram Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeymsbond97&label=Profile%20views&color=0e75b6&style=flat" alt="jeymsbond97" /> </p>
