@@ -24,11 +24,18 @@
 
 <p align="left"> <a href="www.linkedin.com/in/aminjonov-tokhirbek/" target="blank"><img src="https://img.shields.io/twitter/follow/Tokhirbek?logo=twitter&style=for-the-badge" alt="Tokhirbek" /></a> </p>
 
-- 🌱 Continuously learning and empowering others through mentorship and collaboration.
+### Glad to see you here! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
+I am a Full Stack Developer currently leading the New Tech with a mission to revolutionize how the world hires with AI. 🚀
 
-- 🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, Nestjs, etc. I've led diverse tech teams covering Frontend, Backend and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
 
-- 📫 How to reach me **aminjonovtoxirbek@gmail.com**
+I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+
+Feel free to connect with me **aminjonovtoxirbek@gmail.com** for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+
+Joined Github **3** years ago.
+
 
   <br/>
 
