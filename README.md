@@ -217,6 +217,9 @@
 
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF,DDDDDD&height=60&section=footer"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF,DDDDDD&height=60&section=footer"/>
