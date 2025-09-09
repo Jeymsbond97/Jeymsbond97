@@ -94,7 +94,7 @@ Backend Technologies
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 Styling & UI Frameworks
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -121,7 +121,7 @@ Styling & UI Frameworks
   </a>
 </p>
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 DevOps & Deployment
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -143,7 +143,7 @@ DevOps & Deployment
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 Development Tools
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -170,7 +170,7 @@ Development Tools
   </a>
 </p>
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 Additional Technologies
 <p align="left">
   <a href="https://ejs.co/" target="_blank" rel="noreferrer">
