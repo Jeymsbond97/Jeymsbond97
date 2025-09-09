@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tokhirbek (Jeyms)</h1>
+<h1 align="center">Hi 👋, I'm Tokhirbek </h1>
 <h1 align="center"> FullStack Developer</h1>
 
 <img align="" alt="coding" width="100%" height="50%" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
@@ -58,7 +58,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framermotion/framermotion-original.svg" alt="framer-motion" width="40" height="40"/>
   </a>
 </p>
-Backend Technologies
+<h3>Backend Technologies</h3>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -82,7 +82,7 @@ Backend Technologies
     <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="40" height="40"/>
   </a>
 </p>
-Styling & UI Frameworks
+<h3>Styling & UI Frameworks</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
@@ -106,7 +106,7 @@ Styling & UI Frameworks
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
 </p>
-DevOps & Deployment
+<h3>DevOps & Deployment</h3>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -124,7 +124,7 @@ DevOps & Deployment
     <img src="https://pm2.io/static/images/pm2-logo.png" alt="pm2" width="40" height="40"/>
   </a>
 </p>
-Development Tools
+<h3>Development Tools</h3>
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
@@ -148,7 +148,7 @@ Development Tools
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
-Additional Technologies
+<h3>Additional Technologies</h3>
 <p align="left">
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="openai" width="40" height="40"/>
@@ -169,7 +169,7 @@ Additional Technologies
     <img src="https://lottiefiles.com/images/lottiefiles-logo.svg" alt="lottie" width="40" height="40"/>
   </a>
 </p>
-📊 GitHub Statistics
+<h3> 📊 GitHub Statistics</h3>
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeymsbond97&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="jeymsbond97" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeymsbond97&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="jeymsbond97" /></p>
