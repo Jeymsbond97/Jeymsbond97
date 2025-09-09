@@ -17,14 +17,14 @@
 
 - 📫 How to reach me **aminjonovtoxirbek@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/toxirbek-aminjonov-064797240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/toxirbek-aminjonov-064797240/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/jeyms_bond97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jeyms_bond97/" height="30" width="40" /></a>
 </p>
 
-<h2 align="Center">🛠️ Languages and Tools:</h2>
-<table>
+<h2 align="Center">Languages and Tools</h2>
+<table align="center">
 <tr>
 <td valign="top" width="50%">
 Frontend Technologies
