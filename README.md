@@ -23,10 +23,10 @@
 <a href="https://instagram.com/https://www.instagram.com/jeyms_bond97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jeyms_bond97/" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">🛠️ Languages and Tools:</h2>
-<table align = "center" width="100%">
-<tr width="100%" >
-<td valign="top" width="100%">
+<h2 align="left">🛠️ Languages and Tools:</h2>
+<table>
+<tr>
+<td valign="top" width="50%">
 Frontend Technologies
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -62,7 +62,7 @@ Frontend Technologies
   </a>
 </p>
 </td>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 Backend Technologies
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -94,7 +94,7 @@ Backend Technologies
 </td>
 </tr>
 <tr>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 Styling & UI Frameworks
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -121,7 +121,7 @@ Styling & UI Frameworks
   </a>
 </p>
 </td>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 DevOps & Deployment
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -143,7 +143,7 @@ DevOps & Deployment
 </td>
 </tr>
 <tr>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 Development Tools
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -170,7 +170,7 @@ Development Tools
   </a>
 </p>
 </td>
-<td valign="top" width="100%">
+<td valign="top" width="50%">
 Additional Technologies
 <p align="left">
   <a href="https://ejs.co/" target="_blank" rel="noreferrer">
