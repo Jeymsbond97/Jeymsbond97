@@ -22,14 +22,6 @@ Right now I build application software for service robots and cobot factory line
 
 ---
 
-## Achievements
-
-- 🏭 **Factory line delivered:** injection-molding automation with 2 JAKA cobots, 3 conveyors, 3 cameras and an LS PLC (Modbus TCP). **Passed customer acceptance in Aug 2026.**
-- 🤖 **On-device robot assistant:** JAKA Lumi voice + vision + pick-and-place, all on Jetson Thor. **~2 s** voice reply, **4–13 ms** YOLO + TensorRT detection, **3.3 mm** hand-eye calibration.
-- 🍎 **Simulation benchmark:** vision-guided mobile manipulation in MuJoCo. **97 % clean pick-ups and 0 collisions** over 90 random episodes.
-
----
-
 ## Experience
 
 <p align="center"><sub>⬆ career path: read from the bottom up ⬆</sub></p>
