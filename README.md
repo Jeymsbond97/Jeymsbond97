@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Seoul, South Korea</b> · E-7 visa · English (IELTS 7.0) · Korean (TOPIK 4) · Uzbek
+  <b>Seoul, South Korea</b> · E-7 visa · English (IELTS 7.0) · Korean (TOPIK 5) · Uzbek
 </p>
 
 ---
