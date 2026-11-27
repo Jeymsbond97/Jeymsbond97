@@ -14,15 +14,78 @@
 
 ---
 
-## About me
+## About
 
-I'm a **robotics software engineer** in Seoul. I write the software that makes robots work in the real world: vision, manipulation, voice AI, PLC integration and on-device AI on NVIDIA Jetson.
+I'm a **robotics software engineer** in Seoul. I write the software that makes robots work in the real world: **vision, manipulation, voice AI, PLC integration and on-device AI on NVIDIA Jetson**.
 
-- 🤖 **Now:** Robotics Engineer at **Cutshion (쿳션)**, a Seoul robotics startup. I build application software for service robots and collaborative-robot factory lines, from ROS 2 nodes and vision to field installation.
-- 🏭 **Shipped:** an injection-molding automation line with two JAKA cobots, three conveyors, three cameras and an LS PLC (Modbus TCP). It passed customer acceptance in Aug 2026.
-- 🧠 **Physical AI:** reinforcement learning and imitation learning for robot control, currently applied to humanoid locomotion on Booster K1 in **MuJoCo** and **Isaac Lab** (PPO, sim-to-sim).
-- 🧰 **Background:** 4 years as a full-stack and mobile developer (NestJS, Next.js, React, Flutter, AWS, IoT). I can build the whole system around a robot: backend, dashboard and operator app.
-- 🎓 B.S. Computer Science & Engineering, Jeonbuk National University · Mechanical Engineering, Ferghana Polytechnic Institute
+Right now I build application software for service robots and cobot factory lines at **Cutshion (쿳션)**, from ROS 2 nodes and vision all the way to field installation. Before robotics I spent 4 years as a full-stack and mobile developer, so I can also build the system around a robot: backend, dashboard and operator app. My current focus is **Physical AI**: reinforcement learning and imitation learning for robot control, applied to humanoid locomotion in **MuJoCo** and **Isaac Lab**.
+
+---
+
+## Achievements
+
+- 🏭 **Factory line delivered:** injection-molding automation with 2 JAKA cobots, 3 conveyors, 3 cameras and an LS PLC (Modbus TCP). **Passed customer acceptance in Aug 2026.**
+- 🤖 **On-device robot assistant:** JAKA Lumi voice + vision + pick-and-place, all on Jetson Thor. **~2 s** voice reply, **4–13 ms** YOLO + TensorRT detection, **3.3 mm** hand-eye calibration.
+- 🍎 **Simulation benchmark:** vision-guided mobile manipulation in MuJoCo. **97 % clean pick-ups and 0 collisions** over 90 random episodes.
+
+---
+
+## Experience
+
+<p align="center"><sub>⬆ career path: read from the bottom up ⬆</sub></p>
+
+<table>
+<tr>
+<td width="140" align="center">🟢<br/><b>2026.05 – now</b><br/><sub>Seoul</sub></td>
+<td>
+
+**Robotics Engineer · Cutshion (쿳션)**<br/>
+<sub>Robotics startup: service robots and cobot factory automation</sub>
+
+- 🏭 Built the backend and vision for an injection-molding line with **2 JAKA cobots, 3 conveyors, 3 cameras and an LS PLC** (Modbus TCP, e-stop and door interlocks). **It passed customer acceptance in Aug 2026.**
+- 🤖 Built the application software for the **JAKA Lumi** mobile manipulator: Korean/English voice AI with a local LLM (~2 s reply), YOLO + TensorRT vision (4–13 ms) and pick-and-place with **3.3 mm** hand-eye calibration, all on **Jetson Thor**.
+- 🎨 AI drawing robot: Gemini line art → OpenCV vectorizing → robot paths, with a Flutter kiosk app.
+- 🧩 LLM engine that writes JAKA block programs from natural language, with safety checks. STM32 ultrasonic sensor node (Modbus RTU / RS485).
+
+</td>
+</tr>
+<tr>
+<td align="center">🔵<br/><b>2025.10 – 2026.05</b><br/><sub>Seoul</sub></td>
+<td>
+
+**Software Developer · KEICO**<br/>
+<sub>Energy-efficiency company: IoT and AI energy platform</sub>
+
+- 📱 Rebuilt the **FECO** energy-management app in Flutter: monitoring, schedules and alarms, plus remote control of IoT devices over REST, MQTT and a Zigbee edge gateway.
+- 🌡️ Prototyped reinforcement-learning temperature control on live sensor data.
+- 🌐 Company websites with NestJS + GraphQL and Next.js, deployed with Docker on AWS.
+
+</td>
+</tr>
+<tr>
+<td align="center">⚪<br/><b>2023.08 – 2025.07</b><br/><sub>Remote</sub></td>
+<td>
+
+**Backend Developer · Exadot LLC**<br/>
+<sub>Remote, while studying at Jeonbuk National University</sub>
+
+- ⚙️ REST and GraphQL APIs with NestJS, Spring Boot and Python on PostgreSQL, MySQL and MongoDB.
+- 🔐 JWT / Spring Security auth, real-time features with WebSocket and Socket.IO, Docker deploys on AWS EC2 + Nginx.
+
+</td>
+</tr>
+<tr>
+<td align="center">⚪<br/><b>2021.11 – 2023.02</b><br/><sub>Remote</sub></td>
+<td>
+
+**Frontend Developer · Colibrisoft**<br/>
+<sub>Remote, while studying at Jeonbuk National University</sub>
+
+- 💻 Responsive web apps with React, TypeScript, Redux and Tailwind. i18n and Three.js 3D features.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -108,62 +171,23 @@ I'm a **robotics software engineer** in Seoul. I write the software that makes r
 
 ---
 
-## Experience
+## Education
 
-<p align="center"><sub>⬆ career path: read from the bottom up ⬆</sub></p>
+| | |
+|---|---|
+| 🎓 **B.S. Computer Science & Engineering** · Jeonbuk National University (전북대학교), Korea | 2019.09 – 2025.02 |
+| 🎓 **Mechanical Engineering** · Ferghana Polytechnic Institute, Uzbekistan | 2016.09 – 2019.09 |
 
-<table>
-<tr>
-<td width="140" align="center">🟢<br/><b>2026.05 – now</b><br/><sub>Seoul</sub></td>
-<td>
+---
 
-**Robotics Engineer · Cutshion (쿳션)**<br/>
-<sub>Robotics startup: service robots and cobot factory automation</sub>
+## Awards & certifications
 
-- 🏭 Built the backend and vision for an injection-molding line with **2 JAKA cobots, 3 conveyors, 3 cameras and an LS PLC** (Modbus TCP, e-stop and door interlocks). **It passed customer acceptance in Aug 2026.**
-- 🤖 Built the application software for the **JAKA Lumi** mobile manipulator: Korean/English voice AI with a local LLM (~2 s reply), YOLO + TensorRT vision (4–13 ms) and pick-and-place with **3.3 mm** hand-eye calibration, all on **Jetson Thor**.
-- 🎨 AI drawing robot: Gemini line art → OpenCV vectorizing → robot paths, with a Flutter kiosk app.
-- 🧩 LLM engine that writes JAKA block programs from natural language, with safety checks. STM32 ultrasonic sensor node (Modbus RTU / RS485).
-
-</td>
-</tr>
-<tr>
-<td align="center">🔵<br/><b>2025.10 – 2026.05</b><br/><sub>Seoul</sub></td>
-<td>
-
-**Software Developer · KEICO**<br/>
-<sub>Energy-efficiency company: IoT and AI energy platform</sub>
-
-- 📱 Rebuilt the **FECO** energy-management app in Flutter: monitoring, schedules and alarms, plus remote control of IoT devices over REST, MQTT and a Zigbee edge gateway.
-- 🌡️ Prototyped reinforcement-learning temperature control on live sensor data.
-- 🌐 Company websites with NestJS + GraphQL and Next.js, deployed with Docker on AWS.
-
-</td>
-</tr>
-<tr>
-<td align="center">⚪<br/><b>2023.08 – 2025.07</b><br/><sub>Remote</sub></td>
-<td>
-
-**Backend Developer · Exadot LLC**<br/>
-<sub>Remote, while studying at Jeonbuk National University</sub>
-
-- ⚙️ REST and GraphQL APIs with NestJS, Spring Boot and Python on PostgreSQL, MySQL and MongoDB.
-- 🔐 JWT / Spring Security auth, real-time features with WebSocket and Socket.IO, Docker deploys on AWS EC2 + Nginx.
-
-</td>
-</tr>
-<tr>
-<td align="center">⚪<br/><b>2021.11 – 2023.02</b><br/><sub>Remote</sub></td>
-<td>
-
-**Frontend Developer · Colibrisoft**<br/>
-<sub>Remote, while studying at Jeonbuk National University</sub>
-
-- 💻 Responsive web apps with React, TypeScript, Redux and Tailwind. i18n and Three.js 3D features.
-
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| 🏆 **Excellent Student Award**: top 10 in the Dept. of Computer Science & Engineering, Jeonbuk National University | 2023.02 |
+| 📜 **Google Project Management Professional Certificate** (Coursera) | 2026.09 |
+| 🇰🇷 **TOPIK Level 4** (Korean) | 2026.10 |
+| 🇬🇧 **IELTS 7.0** (English) | |
 
 ---
 
