@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Seoul, South Korea</b> · E-7 visa · English (IELTS 7.0) · Korean (TOPIK 5) · Uzbek
+  <b>Seoul, South Korea</b> · E-7 visa · English (IELTS 7.0) · Korean (TOPIK 4) · Uzbek
 </p>
 
 ---
@@ -110,8 +110,63 @@ I'm a **robotics software engineer** in Seoul. I write the software that makes r
 
 ## Experience
 
-| When | Role |
-|---|---|
+<p align="center"><sub>⬆ career path: read from the bottom up ⬆</sub></p>
+
+<table>
+<tr>
+<td width="140" align="center">🟢<br/><b>2026.05 – now</b><br/><sub>Seoul</sub></td>
+<td>
+
+**Robotics Engineer · Cutshion (쿳션)**<br/>
+<sub>Robotics startup: service robots and cobot factory automation</sub>
+
+- 🏭 Built the backend and vision for an injection-molding line with **2 JAKA cobots, 3 conveyors, 3 cameras and an LS PLC** (Modbus TCP, e-stop and door interlocks). **It passed customer acceptance in Aug 2026.**
+- 🤖 Built the application software for the **JAKA Lumi** mobile manipulator: Korean/English voice AI with a local LLM (~2 s reply), YOLO + TensorRT vision (4–13 ms) and pick-and-place with **3.3 mm** hand-eye calibration, all on **Jetson Thor**.
+- 🎨 AI drawing robot: Gemini line art → OpenCV vectorizing → robot paths, with a Flutter kiosk app.
+- 🧩 LLM engine that writes JAKA block programs from natural language, with safety checks. STM32 ultrasonic sensor node (Modbus RTU / RS485).
+- 🎪 Robot demos at **Robot World 2026** (KINTEX) and **KICEF 2026** (Daegu).
+
+</td>
+</tr>
+<tr>
+<td align="center">🔵<br/><b>2025.10 – 2026.05</b><br/><sub>Seoul</sub></td>
+<td>
+
+**Software Developer · KEICO**<br/>
+<sub>Energy-efficiency company: IoT and AI energy platform</sub>
+
+- 📱 Rebuilt the **FECO** energy-management app in Flutter: monitoring, schedules and alarms, plus remote control of IoT devices over REST, MQTT and a Zigbee edge gateway.
+- 🌡️ Prototyped reinforcement-learning temperature control on live sensor data.
+- 🌐 Company websites with NestJS + GraphQL and Next.js, deployed with Docker on AWS.
+
+</td>
+</tr>
+<tr>
+<td align="center">⚪<br/><b>2023.08 – 2025.07</b><br/><sub>Remote</sub></td>
+<td>
+
+**Backend Developer · Exadot LLC**<br/>
+<sub>Remote, while studying at Jeonbuk National University</sub>
+
+- ⚙️ REST and GraphQL APIs with NestJS, Spring Boot and Python on PostgreSQL, MySQL and MongoDB.
+- 🔐 JWT / Spring Security auth, real-time features with WebSocket and Socket.IO, Docker deploys on AWS EC2 + Nginx.
+
+</td>
+</tr>
+<tr>
+<td align="center">⚪<br/><b>2021.11 – 2023.02</b><br/><sub>Remote</sub></td>
+<td>
+
+**Frontend Developer · Colibrisoft**<br/>
+<sub>Remote, while studying at Jeonbuk National University</sub>
+
+- 💻 Responsive web apps with React, TypeScript, Redux and Tailwind. i18n and Three.js 3D features.
+
+</td>
+</tr>
+</table>
+
+---|---|
 | 2026.05 – now | **Robotics Engineer**, Cutshion (쿳션), Seoul: service robots, cobot automation lines, vision, voice AI, PLC integration |
 | 2025.10 – 2026.05 | **Software Developer**, KEICO, Seoul: IoT energy-management app (Flutter, MQTT, Zigbee), web platform (NestJS, Next.js, AWS) |
 | 2023.08 – 2025.07 | **Backend Developer**, Exadot LLC (remote, while studying): NestJS, Spring Boot, Python, PostgreSQL, AWS |
