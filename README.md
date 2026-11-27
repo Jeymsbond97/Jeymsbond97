@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Seoul, South Korea</b> · E-7 visa · English (IELTS 7.0) · Korean (TOPIK 5) · Uzbek
+  <b>Seoul, South Korea</b> · E-7 visa · English (IELTS 7.0) · Korean (TOPIK 4) · Uzbek
 </p>
 
 ---
@@ -124,7 +124,6 @@ I'm a **robotics software engineer** in Seoul. I write the software that makes r
 - 🤖 Built the application software for the **JAKA Lumi** mobile manipulator: Korean/English voice AI with a local LLM (~2 s reply), YOLO + TensorRT vision (4–13 ms) and pick-and-place with **3.3 mm** hand-eye calibration, all on **Jetson Thor**.
 - 🎨 AI drawing robot: Gemini line art → OpenCV vectorizing → robot paths, with a Flutter kiosk app.
 - 🧩 LLM engine that writes JAKA block programs from natural language, with safety checks. STM32 ultrasonic sensor node (Modbus RTU / RS485).
-- 🎪 Robot demos at **Robot World 2026** (KINTEX) and **KICEF 2026** (Daegu).
 
 </td>
 </tr>
@@ -165,14 +164,6 @@ I'm a **robotics software engineer** in Seoul. I write the software that makes r
 </td>
 </tr>
 </table>
-
----|---|
-| 2026.05 – now | **Robotics Engineer**, Cutshion (쿳션), Seoul: service robots, cobot automation lines, vision, voice AI, PLC integration |
-| 2025.10 – 2026.05 | **Software Developer**, KEICO, Seoul: IoT energy-management app (Flutter, MQTT, Zigbee), web platform (NestJS, Next.js, AWS) |
-| 2023.08 – 2025.07 | **Backend Developer**, Exadot LLC (remote, while studying): NestJS, Spring Boot, Python, PostgreSQL, AWS |
-| 2021.11 – 2023.02 | **Frontend Developer**, Colibrisoft (remote, while studying): React, TypeScript, Three.js |
-
-Robot demos: **Robot World 2026** (KINTEX) · **KICEF 2026** (Daegu)
 
 ---
 
