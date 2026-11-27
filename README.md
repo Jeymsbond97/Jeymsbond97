@@ -1,251 +1,130 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4B,100:2348FF&height=140&section=header&text=Tokhirbek%20Aminjonov&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Robotics%20Software%20Engineer%20%C2%B7%20Physical%20AI&descAlignY=60&descSize=18"/>
 </p>
-
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Tokhirbek;FullStack+Developer;Nice+to+meet+you!&center=true&size=50&width=1800&height=150">
-  </a>
-</h1>
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/aminjonov-tokhirbek" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a></code>
-  <code><a href="https://instagram.com/https://www.instagram.com/jeyms_bond97/ title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"> Instagram</a></code>
-  <code><a href="https://t.me/jeyms_bond97" title="Telegram Profile"><img width="22" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg"> Telegram</a></code>
-  <code><a href="https://kakaotalk.com/jeyms_bond97" title="Kakaotalk Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/KakaoTalk_logo.svg"> KakaoTalk</a></code>
-</h5>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="I'm Tokhirbek" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeymsbond97" alt="jeymsbond97" /></a> </p>
-
-<p align="left"> <a href="www.linkedin.com/in/aminjonov-tokhirbek/" target="blank"><img src="https://img.shields.io/twitter/follow/Tokhirbek?logo=twitter&style=for-the-badge" alt="Tokhirbek" /></a> </p>
-
-### Glad to see you here! 
-I am a Full Stack Developer currently leading the New Tech with a mission to revolutionize how the world hires with AI. 🚀
-
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, Nestjs, etc. I've led diverse tech teams covering Frontend, Backend and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
-
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
-
-Feel free to connect with me **aminjonovtoxirbek@gmail.com** for all things or just to say hello! Let's shape the future of tech together. 🌟
-
-Joined Github **3** years ago.
-
-<hr>
-<h3 align="left">✨ Random Dev Quote::</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-<hr>
-
-  <br/>
-
-  <h2>Do you want support me?</h2> <h2><a href="https://buymeacoffee.com/tokhirbek" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a></h2>
-   
-
-
-
-
-<h2 align="center">🛠️ Languages and Tools:</h2>
-
-<table align="center" width="200px">
-<tr>
-<td valign="top" width="50%">
-
-### Frontend Technologies
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <br/>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a>
-  <a href="https://reactrouter.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react-router" width="40" height="40"/>
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
-  </a>
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="threejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framermotion/framermotion-original.svg" alt="framer-motion" width="40" height="40"/>
-  </a>
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-### Backend Technologies
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="mongoose" width="40" height="40"/>
-  </a>
-  <br/>
-  <a href="https://socket.io/" target="_blank" rel="noreferrer">
-    <img src="https://socket.io/images/logo.svg" alt="socketio" width="40" height="40"/>
-  </a>
-  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-    <img src="https://jwt.io/img/pic_logo.svg" alt="jwt" width="40" height="40"/>
-  </a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" alt="openai" width="40" height="40"/>
-  </a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### Styling & UI Frameworks
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logomark-colored.svg" alt="chakra" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <br/>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-### DevOps & Deployment
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
-  <a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer">
-    <img src="https://pm2.io/static/images/pm2-logo.png" alt="pm2" width="40" height="40"/>
-  </a>
-</p>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-### Development Tools
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
-  </a>
-  <br/>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-### Additional Technologies
-<p align="left">
-  <a href="https://ejs.co/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg" alt="ejs" width="40" height="40"/>
-  </a>
-  <a href="https://sweetalert2.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://sweetalert2.github.io/images/SweetAlert2.png" alt="sweetalert" width="40" height="40"/>
-  </a>
-  <a href="https://swiperjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://swiperjs.com/images/swiper-logo.svg" alt="swiper" width="40" height="40"/>
-  </a>
-  <a href="https://animejs.com/" target="_blank" rel="noreferrer">
-    <img src="https://animejs.com/documentation/assets/img/anime-mini-logo.svg" alt="anime-js" width="40" height="40"/>
-  </a>
-  <a href="https://lottiefiles.com/" target="_blank" rel="noreferrer">
-    <img src="https://lottiefiles.com/images/lottiefiles-logo.svg" alt="lottie" width="40" height="40"/>
-  </a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<h2 top="100px" align="center">📊 GitHub Statistics</h2>
-
-<div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeymsbond97&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="jeymsbond97" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeymsbond97&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="jeymsbond97" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeymsbond97&theme=tokyonight&hide_border=true" alt="jeymsbond97" /></p>
-</div>
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+  <a href="https://jeymsbond97.github.io"><img src="https://img.shields.io/badge/Portfolio-jeymsbond97.github.io-2348FF?style=for-the-badge&logo=astro&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aminjonov-tokhirbek"><img src="https://img.shields.io/badge/LinkedIn-aminjonov--tokhirbek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aminjonovtoxirbek@gmail.com"><img src="https://img.shields.io/badge/Email-aminjonovtoxirbek%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<p align="center">
+  <b>Seoul, South Korea</b> · E-7 visa · English (IELTS 7.0) · Korean (TOPIK 4) · Uzbek
+</p>
+
+---
+
+## About me
+
+I'm a **robotics software engineer** in Seoul. I write the software that makes robots work in the real world: vision, manipulation, voice AI, PLC integration and on-device AI on NVIDIA Jetson.
+
+- 🤖 **Now:** Robotics Engineer at **Cutshion (쿳션)**, a Seoul robotics startup. I build application software for service robots and collaborative-robot factory lines, from ROS 2 nodes and vision to field installation.
+- 🏭 **Shipped:** an injection-molding automation line with two JAKA cobots, three conveyors, three cameras and an LS PLC (Modbus TCP). It passed customer acceptance in Aug 2026.
+- 🧠 **Physical AI:** reinforcement learning and imitation learning for robot control, currently applied to humanoid locomotion on Booster K1 in **MuJoCo** and **Isaac Lab** (PPO, sim-to-sim).
+- 🧰 **Background:** 4 years as a full-stack and mobile developer (NestJS, Next.js, React, Flutter, AWS, IoT). I can build the whole system around a robot: backend, dashboard and operator app.
+- 🎓 B.S. Computer Science & Engineering, Jeonbuk National University · Mechanical Engineering, Ferghana Polytechnic Institute
+
+---
+
+## Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**JAKA Lumi assistant**](https://github.com/Jeymsbond97/Jaka-Lumi) | Turns a JAKA Lumi mobile manipulator into an office assistant. It talks in Korean and English, navigates, tracks people and does pick-and-place. Everything runs on the robot's Jetson Thor. | Python · whisper.cpp · Ollama (local LLM) · YOLOv8 + TensorRT · RGB-D · IK · FastAPI |
+| [**Lumi App**](https://github.com/Jeymsbond97/lumi-app) | Mobile and tablet app for the same robot: live 3D robot state, cameras, map, driving and one-tap behaviours. | React Native (Expo) · TypeScript · REST |
+| [**PiCar Apple Picker**](https://github.com/Jeymsbond97/picar-mujoco-apple-picker) | Vision-guided mobile manipulation in MuJoCo. A car-like robot finds an apple, drives around obstacles and picks it up with a 4-DOF arm. **97 % clean pick-ups, 0 collisions over 90 random episodes.** | MuJoCo · MJCF · OpenCV · potential fields · analytic IK |
+| [**Booster K1 locomotion**](https://github.com/Jeymsbond97/Booster) *(in progress)* | Teaching a 22-DOF humanoid to stand, balance and walk with RL, following the Booster Gym pipeline: PPO training in simulation, then sim-to-sim validation in MuJoCo, then the real robot. | MuJoCo · Isaac Lab · PPO · PyTorch |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jeymsbond97/picar-mujoco-apple-picker/main/media/demo_obstacles.gif" width="49%" alt="PiCar apple picker in MuJoCo"/>
+  <img src="https://raw.githubusercontent.com/Jeymsbond97/Jaka-Lumi/main/real/thor/sim/sorting/media/sorting_demo.gif" width="49%" alt="Lumi sorting in simulation"/>
+</p>
+
+---
+
+## Skills
+
+**Robotics**
+<p>
+  <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MuJoCo-1F2937?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NVIDIA%20Isaac%20Lab-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Manipulation%20%26%20IK-374151?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Hand--Eye%20Calibration-374151?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Mobile%20Manipulation-374151?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cobots%20(JAKA)-374151?style=flat-square"/>
+</p>
+
+**Physical AI & machine learning**
+<p>
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-6D28D9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Imitation%20Learning-6D28D9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Sim--to--Real-6D28D9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM%20(local)-111827?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Speech%20(STT%2FTTS)-111827?style=flat-square"/>
+</p>
+
+**Vision & edge AI**
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RGB--D%20Cameras-374151?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
+</p>
+
+**Industrial & embedded**
+<p>
+  <img src="https://img.shields.io/badge/PLC%20(LS%20XGB)-B45309?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Modbus%20TCP%2FRTU-B45309?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RS485-B45309?style=flat-square"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Safety%20Interlocks-B45309?style=flat-square"/>
+</p>
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+</p>
+
+**Backend, apps & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square"/>
+</p>
+
+---
+
+## Experience
+
+| When | Role |
+|---|---|
+| 2026.05 – now | **Robotics Engineer**, Cutshion (쿳션), Seoul: service robots, cobot automation lines, vision, voice AI, PLC integration |
+| 2025.10 – 2026.05 | **Software Developer**, KEICO, Seoul: IoT energy-management app (Flutter, MQTT, Zigbee), web platform (NestJS, Next.js, AWS) |
+| 2023.08 – 2025.07 | **Backend Developer**, Exadot LLC (remote, while studying): NestJS, Spring Boot, Python, PostgreSQL, AWS |
+| 2021.11 – 2023.02 | **Frontend Developer**, Colibrisoft (remote, while studying): React, TypeScript, Three.js |
+
+Robot demos: **Robot World 2026** (KINTEX) · **KICEF 2026** (Daegu)
+
+---
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Jeymsbond97&theme=tokyonight&hide_border=true" alt="streak"/>
+</p>
+
+<p align="center"><i>Open to robotics software, robot application and Physical AI roles in Korea. Feel free to reach out.</i></p>
